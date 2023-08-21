@@ -1,2 +1,1 @@
-# Flame-water-HUB
-loadstring(game:HttpGet('https://ppearl.vercel.app'))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Darkrai-X/main/Games/Evade"))()
